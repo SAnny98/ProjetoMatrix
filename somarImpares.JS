@@ -16,5 +16,4 @@ function somarImpares(n){
       return soma;
   }
 }
-
-console.log(somarImpares(2));
+console.log(somarImpares());
