@@ -2,7 +2,6 @@ function verifica(n){
    return (typeof n=== 'number');
  }
 
-
 function somarImpares(n){
    
   if(verifica(n)){
@@ -15,5 +14,5 @@ function somarImpares(n){
     }
       return soma;
   }
-}
+ }
 console.log(somarImpares());
